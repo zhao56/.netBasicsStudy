@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basic", "basic", "{B127076A-1B4F-4ABC-BD40-210DBACC9BBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generic", "Generic", "{9264452E-F53B-4BFB-BA64-BDF96B554196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01zhao56.study.basic.Generic", "zhao56.study.basic.Generic\01zhao56.study.basic.Generic.csproj", "{24157816-0B01-409C-85D8-879C5F70BAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02zhao56.study.basic.Reflection", "zhao56.study.basic.Reflection\02zhao56.study.basic.Reflection.csproj", "{92D343C8-C7BC-4559-8A84-457C470A1014}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{A565F201-A93E-497B-A28C-AB0C9530DA64}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\视频\软谋\视频\高级班源码合集\高级班源码合集\20181218Advanced12Course4Libraries\Advanced12第一次homework.txt = ..\..\..\视频\软谋\视频\高级班源码合集\高级班源码合集\20181218Advanced12Course4Libraries\Advanced12第一次homework.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhao56.study.basic.Service", "zhao56.study.basic.Service\zhao56.study.basic.Service.csproj", "{F2BF18E5-6A43-4454-8BF8-A17C18658569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhao56.study.basic.Common", "zhao56.study.basic.Common\zhao56.study.basic.Common.csproj", "{EA14D385-9F6D-4198-ABC6-F9000AF9F16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhao56.study.basic.Dal", "zhao56.study.basic.Dal\zhao56.study.basic.Dal.csproj", "{13749A98-3B51-4072-B884-86282FA51FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03zhao56.study.basic.AttributeExtend", "zhao56.study.basic.Attribute\03zhao56.study.basic.AttributeExtend.csproj", "{C7D7D7D5-DD6C-4432-AD53-0494A53A66F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24157816-0B01-409C-85D8-879C5F70BAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24157816-0B01-409C-85D8-879C5F70BAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24157816-0B01-409C-85D8-879C5F70BAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24157816-0B01-409C-85D8-879C5F70BAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D343C8-C7BC-4559-8A84-457C470A1014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D343C8-C7BC-4559-8A84-457C470A1014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D343C8-C7BC-4559-8A84-457C470A1014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D343C8-C7BC-4559-8A84-457C470A1014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BF18E5-6A43-4454-8BF8-A17C18658569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BF18E5-6A43-4454-8BF8-A17C18658569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BF18E5-6A43-4454-8BF8-A17C18658569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BF18E5-6A43-4454-8BF8-A17C18658569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA14D385-9F6D-4198-ABC6-F9000AF9F16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA14D385-9F6D-4198-ABC6-F9000AF9F16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA14D385-9F6D-4198-ABC6-F9000AF9F16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA14D385-9F6D-4198-ABC6-F9000AF9F16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13749A98-3B51-4072-B884-86282FA51FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13749A98-3B51-4072-B884-86282FA51FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13749A98-3B51-4072-B884-86282FA51FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13749A98-3B51-4072-B884-86282FA51FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D7D7D5-DD6C-4432-AD53-0494A53A66F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D7D7D5-DD6C-4432-AD53-0494A53A66F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D7D7D5-DD6C-4432-AD53-0494A53A66F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D7D7D5-DD6C-4432-AD53-0494A53A66F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9264452E-F53B-4BFB-BA64-BDF96B554196} = {B127076A-1B4F-4ABC-BD40-210DBACC9BBC}
+		{24157816-0B01-409C-85D8-879C5F70BAC9} = {9264452E-F53B-4BFB-BA64-BDF96B554196}
+		{92D343C8-C7BC-4559-8A84-457C470A1014} = {9264452E-F53B-4BFB-BA64-BDF96B554196}
+		{A565F201-A93E-497B-A28C-AB0C9530DA64} = {9264452E-F53B-4BFB-BA64-BDF96B554196}
+		{F2BF18E5-6A43-4454-8BF8-A17C18658569} = {A565F201-A93E-497B-A28C-AB0C9530DA64}
+		{EA14D385-9F6D-4198-ABC6-F9000AF9F16B} = {A565F201-A93E-497B-A28C-AB0C9530DA64}
+		{13749A98-3B51-4072-B884-86282FA51FBC} = {A565F201-A93E-497B-A28C-AB0C9530DA64}
+		{C7D7D7D5-DD6C-4432-AD53-0494A53A66F6} = {9264452E-F53B-4BFB-BA64-BDF96B554196}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32964F0-294C-4538-B8AC-4AE7C6A163E5}
+	EndGlobalSection
+EndGlobal

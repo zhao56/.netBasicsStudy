@@ -1,0 +1,12 @@
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\bin\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.exe
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\bin\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.deps.json
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\bin\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.runtimeconfig.json
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\bin\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.runtimeconfig.dev.json
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\bin\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.dll
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\bin\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.pdb
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\obj\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.AssemblyInfoInputs.cache
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\obj\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.AssemblyInfo.cs
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\obj\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.csproj.CoreCompileInputs.cache
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\obj\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.dll
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\obj\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.pdb
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Attribute\obj\Debug\netcoreapp3.1\03zhao56.study.basic.AttributeExtend.genruntimeconfig.cache

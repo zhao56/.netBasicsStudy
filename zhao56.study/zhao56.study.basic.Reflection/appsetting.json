@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "connectionStrings": {
+    "connectionString": "Data Source=(DESCRIPTION = (ADDRESS_LIST= (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.1.35)(PORT = 1521))) (CONNECT_DATA = (SERVICE_NAME = orcl)));User ID=dbuser1;password=ylsbgl;",
+    "providerName": "System.Data.OracleClient"
+  },
+  "AppSettings": {
+    "IDBHelperConfig": "zhao56.study.basic.Reflection.OracleHelper,zhao56.study.basic.Reflection"
+  }
+}

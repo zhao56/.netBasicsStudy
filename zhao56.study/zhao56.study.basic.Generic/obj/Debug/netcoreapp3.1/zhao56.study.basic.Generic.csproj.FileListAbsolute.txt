@@ -1,0 +1,13 @@
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\bin\Debug\netcoreapp3.1\zhao56.study.basic.Generic.exe
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\bin\Debug\netcoreapp3.1\zhao56.study.basic.Generic.deps.json
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\bin\Debug\netcoreapp3.1\zhao56.study.basic.Generic.runtimeconfig.json
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\bin\Debug\netcoreapp3.1\zhao56.study.basic.Generic.runtimeconfig.dev.json
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\bin\Debug\netcoreapp3.1\zhao56.study.basic.Generic.dll
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\bin\Debug\netcoreapp3.1\zhao56.study.basic.Generic.pdb
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.csprojAssemblyReference.cache
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.AssemblyInfoInputs.cache
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.AssemblyInfo.cs
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.csproj.CoreCompileInputs.cache
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.dll
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.pdb
+D:\study\study\.netBasicsStudy\zhao56.study\zhao56.study.basic.Generic\obj\Debug\netcoreapp3.1\zhao56.study.basic.Generic.genruntimeconfig.cache
